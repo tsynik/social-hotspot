@@ -11,10 +11,10 @@ Social Hotspot is a Facebook App works together with NoCatSplash on router flash
 
 1. Create Facebook App to get App ID and App Secret key.
 2. Modify config.php.
-    * APPID: Facebook App ID.
-    * APPSECRET: Facebook App Secret.
-    * PAGEID: Facebook Page ID.
-    * BASEURL: Facebook App URL.
+    * APP_ID: Facebook App ID.
+    * APP_SECRET: Facebook App Secret.
+    * PAGE_ID: Facebook Page ID.
+    * BASE_URI: Facebook App URI.
     * MESSAGE: Message which users must post in their timeline to use free Wi-Fi.
     * PORTAL: URL of NoCatSplash e.g. http://192.168.11.1:5280.
 3. Modify Facebook Fan Box and source in index.php.
