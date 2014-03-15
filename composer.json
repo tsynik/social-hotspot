@@ -1,0 +1,15 @@
+{
+    "name": "nhutdm/social-hotspot",
+    "description": "Manage DD-WRT Router's WiFi Social HotSpot.",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Minh Nhut Duong",
+            "email": "nhutdm@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/php-sdk": "v3.2.3"
+    }
+}
